@@ -1,14 +1,10 @@
 {
-	"addproduct": {
-		"cartItemCount": 2,
-		"zup": {
-			"zip": "zap"
-		}
+	"addProduct": {
+		"cartItemCount": 2
 	},
-	"modifyItemQuantity": [
-		{
-			"cartItemCount": 3,
-			"cartTotalPrice": "€ 99,38"
-		}
-	]
+	"modifyItemQuantity": {
+		"cartItemCount": 3,
+		"cartTotalPrice": "€ 99,38",
+		"itemTotalPrice": "€ 10,12"
+	}
 }
