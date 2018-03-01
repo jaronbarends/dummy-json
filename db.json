@@ -1,9 +1,10 @@
 {
-	"addproduct": [
-		{
-			"cartItemCount": 2
+	"addproduct": {
+		"cartItemCount": 2,
+		"zup": {
+			"zip": "zap"
 		}
-	],
+	},
 	"modifyItemQuantity": [
 		{
 			"cartItemCount": 3,
