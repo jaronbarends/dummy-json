@@ -1,0 +1,13 @@
+{
+	"addproduct": [
+		{
+			"cartItemCount": 2
+		}
+	],
+	"modifyItemQuantity": [
+		{
+			"cartItemCount": 3,
+			"cartTotalPrice": "€ 99,38"
+		}
+	]
+}
