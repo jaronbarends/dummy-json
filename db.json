@@ -1,9 +1,9 @@
 {
 	"addProduct": {
-		"cartItemCount": 2
+		"cartEntries": 2
 	},
 	"modifyItemQuantity": {
-		"cartItemCount": 3,
+		"cartEntries": 3,
 		"cartTotalPrice": "€ 99,38",
 		"itemTotalPrice": "€ 10,12"
 	}
