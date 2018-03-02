@@ -4,7 +4,12 @@
 	},
 	"modifyItemQuantity": {
 		"cartEntries": 3,
-		"cartTotalPrice": "€ 99,38",
-		"itemTotalPrice": "€ 10,12"
+		"totals": {
+			"cartTotalDiscount": "€ 13.86",
+			"cartTotalPrice": "€ 99,38"
+		},
+		"changedItem": {
+			"itemTotalPrice": "€ 10,12"
+		}
 	}
 }
