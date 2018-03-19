@@ -14,6 +14,18 @@
 			"itemTotalPrice": "€ 10,12"
 		}
 	},
+	"modifyItemQuantity2": {
+		"cartEntries": 3,
+		"totals": {
+			"cartSubtotal": "€ 80,18",
+			"cartTotalDiscount": "€ 13,86",
+			"shipping": "Free shipping",
+			"cartTotalPrice": "€ 99,38"
+		},
+		"changedItem": {
+			"itemTotalPrice": "€ 10,12"
+		}
+	},
 	"gotoPayment": {
 	}
 }
