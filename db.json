@@ -14,7 +14,7 @@
 			"itemTotalPrice": "€ 10,12"
 		}
 	},
-	"modifyItemQuantity2": {
+	"changeItemQuantity": {
 		"cartEntries": 3,
 		"totals": {
 			"cartSubtotal": "€ 80,18",
