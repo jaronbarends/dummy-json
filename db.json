@@ -17,5 +17,19 @@
 	"gotoPayment": {
 	},
 	"gotoOrderReview": {
-	}
+	},
+	"prices": [
+		{
+			"partcode": "B34-FCHPR-00-00",
+			"price": 100.20
+		},
+		{
+			"partcode": "B34-FCHPR-00-00",
+			"price": 200.10
+		},
+		{
+			"partcode": "B34-FFLRC-00-00",
+			"price": 1300.50
+		}
+	]
 }
