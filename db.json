@@ -17,6 +17,11 @@
 	"gotoPayment": {
 	},
 	"gotoOrderReview": {
+		"success":false,
+		"invalidCart":false,
+		"validation":{
+			"postalcode":"The postal code contains illegal characters"
+		}
 	},
 	"prices": [
 		{
