@@ -16,7 +16,15 @@
 	},
 	"gotoPayment": {
 	},
-	"gotoOrderReview": {
+	"gotoOrderReviewSuccess": {
+		"success":true,
+		"invalidCart":false
+	},
+	"gotoOrderReviewInvalidCart": {
+		"success":false,
+		"invalidCart":true
+	},
+	"gotoOrderReviewInvalidForm": {
 		"success":false,
 		"invalidCart":false,
 		"validation":{
