@@ -16,7 +16,8 @@
 		"success":false,
 		"invalidCart":false,
 		"validation":{
-			"postalcode":"The postal code contains illegal characters"
+			"postalcode":"The postal code contains illegal characters",
+			"lastname": "Last name is required"
 		}
 	}
 }
