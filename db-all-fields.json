@@ -1,0 +1,22 @@
+{
+	"addProduct": {
+		"cartEntries": 2
+	},
+	"gotoPayment": {
+	},
+	"gotoOrderReviewSuccess": {
+		"success":true,
+		"invalidCart":false
+	},
+	"gotoOrderReviewInvalidCart": {
+		"success":false,
+		"invalidCart":true
+	},
+	"gotoOrderReviewInvalidForm": {
+		"success":false,
+		"invalidCart":false,
+		"validation":{
+			"postalcode":"The postal code contains illegal characters"
+		}
+	}
+}
