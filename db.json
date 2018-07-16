@@ -2,6 +2,18 @@
 	"addProduct": {
 		"cartEntries": 2
 	},
+	"modifyItemQuantity": {
+		"cartEntries": 3,
+		"totals": {
+			"cartSubtotal": "€ 80,18",
+			"cartTotalDiscount": "€ 13,86",
+			"shipping": "Free shipping",
+			"cartTotalPrice": "€ 99,38"
+		},
+		"changedItem": {
+			"itemTotalPrice": "€ 10,12"
+		}
+	},
 	"gotoPayment": {
 	},
 	"gotoOrderReviewSuccess": {
@@ -11,13 +23,5 @@
 	"gotoOrderReviewInvalidCart": {
 		"success":false,
 		"invalidCart":true
-	},
-	"gotoOrderReviewInvalidForm": {
-		"success":false,
-		"invalidCart":false,
-		"validation":{
-			"postalcode":"The postal code contains illegal characters",
-			"lastname": "Last name is required"
-		}
 	}
 }
