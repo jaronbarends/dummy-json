@@ -1,27 +1,40 @@
 {
-	"addProduct": {
-		"cartEntries": 2
-	},
-	"modifyItemQuantity": {
-		"cartEntries": 3,
-		"totals": {
-			"cartSubtotal": "€ 80,18",
-			"cartTotalDiscount": "€ 13,86",
-			"shipping": "Free shipping",
-			"cartTotalPrice": "€ 99,38"
+	"items": [
+		{
+			"title": "Een pop",
+			"notes": "Met vlechten in het haar",
+			"price": 39.95,
+			"shop": "Intertoys"
 		},
-		"changedItem": {
-			"itemTotalPrice": "€ 10,12"
+		{
+			"title": "Een snoezig jurkje",
+			"notes": "Kant en klaar",
+			"price": 17.50,
+			"shop": "Intertoys"
+		},
+		{
+			"title": "Twee kaatseballen",
+			"notes": "In een net",
+			"price": 3.65,
+			"shop": "Intertoys"
+		},
+		{
+			"title": "Een letter",
+			"notes": "Van banket",
+			"price": 4.50,
+			"shop": "Intertoys"
+		},
+		{
+			"title": "Een bromtol",
+			"notes": "Met een zweep erbij",
+			"price": 6.95,
+			"shop": "Intertoys"
+		},
+		{
+			"title": "Een doos soldaten",
+			"notes": "Ook voor mij",
+			"price": 12.80,
+			"shop": "Intertoys"
 		}
-	},
-	"gotoPayment": {
-	},
-	"gotoOrderReviewSuccess": {
-		"success":true,
-		"invalidCart":false
-	},
-	"gotoOrderReviewInvalidCart": {
-		"success":false,
-		"invalidCart":true
-	}
+	]
 }
